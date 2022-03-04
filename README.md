@@ -1,3 +1,4 @@
+I and my companies stand with 🇺🇦
 - 👋 Hi, I’m David Swanson @wildernessfamily I'm a 🐍Python / Django developer and 🧑🏼‍🏫teacher. I own BitsVital.
 - 👀 I’m interested in 🐍Python, Django, Kivy, KivyMD, Full Stack Web Development, 🔋Electrical Engineering, and Raspberry Pi Enthusiast. I hold the highest FCC certification in Amateur Radio📻. Call Sign K0BCJ. 
 - 🌱 I’m currently learning Python encryption. Almost everynight I spend minimum of one hour doing an online class. I love learning!!! I could easily be a professional student👨‍🎓....if only that paid! :)
