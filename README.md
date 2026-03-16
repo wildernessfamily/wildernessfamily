@@ -1,11 +1,13 @@
-I and my companies stand with 🇺🇦
-- 👋 Hi, I’m David Swanson @wildernessfamily I'm a 🐍Python, Dart/Flutter, C, C++, Javascript and of course HTML/CSS developer. In addition, I'm a part time 🧑🏼‍🏫teacher.
+Standing strong with Ukraine 🇺🇦!
+- 👋 Hi, I’m David Swanson @wildernessfamily. I'm a 🐍 Python, Dart/Flutter, C, C++, Javascript and of course HTML/CSS developer. In addition, I'm a part time 🧑🏼‍🏫 teacher.
 - 🖊️ I am the author of United Planets And Galactic Fleet (UPGF) book series, https://upgf.world.
 - ⭐️ I specialize in Python FastAPI, Django, Flask, Pelican Page Generator, Micropython, Docker, and Kubernetes.
-- 🔋 I'm also Electrical Engineering.
-- 🛠️ IoT inventor that specializes in Raspberry Pi, Arduino, Espressif, and micro-controller enthusiast.
-- 🎙️ I hold the highest FCC certification in Amateur Radio📻. Call Sign K0BCJ. 
-- 📫 How to reach me...send me a message at https://upgf.world/contact
-- 🕸️ As of January 2026, working on my personal website that is under development. https://david.zone Check often for updates.
+- 🔋 I'm also an Electrical Engineering.
+- 🛠️ IoT inventor that specializes in Raspberry Pi, Arduino, and Espressif.
+- ⌨️ Micro-controller enthusiast.
+- 🎙️ I hold the highest FCC certification in Amateur Radio 📻. Call Sign K0BCJ. 
+- 📫 You can reach and interact with me on my Mastodon account @david_desperado (https://mastodon.social/@david_desperado)
+- 🕸️ As of January 2026, working on my personal website that is under development. https://david.zone. Check often for updates.
 - 🧑🏼‍🏫 More about me...  I have my VFR pilots license. I love the outdoors. I love road trips! I rather drive then fly. Unless I'm the pilot. Love RV'ing. I'm an animal rights activist. Animals have emotions and feel pain just like humans! I'm a vegetarian. My favorite movie is WildernessFamily and Erin Brockovich.
 - 🏐 Favorite Hobbies: Volleyball, hiking, snow skiing, water skiing (barefoot or slalom), inventing new IoT devices with microcontrollers and my 3D printer (Favorite 3D Printers Voxelab and Bamboo).
+- ❤️ 📚️🔬🧬🔭🎹📻️🎢🎡🪂🏕️🏖️🚗🛤️🚝🛤️🥾🎒🛩️⛵️🏔️🎼♂️💻️🐕️🎆🎃🤿🏐🏳️‍🌈
